@@ -1,0 +1,31 @@
+.intro {
+  background: url(../images/bg.jpg) no-repeat bottom center scroll;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  padding: 150px 0;
+  display: table;
+  color:white;
+  h1 {
+    text-align: center;
+    background: black;
+    width: 350px;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 70px;
+    margin-bottom: 20px;
+  }
+  h3 {
+    text-align: center;
+    font-size: 25px;
+    background: #CCC;
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    color: black;
+  }
+  
+}

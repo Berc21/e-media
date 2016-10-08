@@ -1,0 +1,12 @@
+.navbar-custom {
+  a {
+    color:white;
+    &:hover {
+      color:white;
+      background: black !important;
+    }
+  }
+}
+.navbar-fixed-top {
+  background:#072144;
+}

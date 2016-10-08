@@ -1,0 +1,31 @@
+@import "header";
+@import "content";
+@import "nav-bar";
+
+.ref {
+  width: 200px;
+  margin-right: 50px;
+}
+#con {
+    background: rgba(0,0,0,0.9);
+    padding: 50px;
+    color: white;
+}
+#kim {
+  background: url(../images/kim.jpg) no-repeat bottom center scroll;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  padding: 150px 0;
+  display: table;
+  h2{
+    color: black;
+    opacity: none;
+    font-size: 40px;
+  }
+  .kim-p {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+}
